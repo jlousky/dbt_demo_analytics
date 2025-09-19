@@ -1,5 +1,11 @@
+Project Overview
+
 dbt analytics sample project to showcase dbt and snowflake and airflow
 
+Data Source: Snowflake 
+ELT: dbt 
+Target: Snowflake analytics database, star schema Kimball fact and dimensions
+Viz: Sigma 
 
 ### Git Release Deployment
 
